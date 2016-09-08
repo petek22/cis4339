@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ Pete Kamenszky
 
-Things you may want to cover:
+ Semester Project for CIS4339 Fall 2016 section 18650 Wednesday 7-10
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  This project will be a loading dock management system

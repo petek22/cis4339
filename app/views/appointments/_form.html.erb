@@ -23,12 +23,12 @@
 
   <div class="field">
     <%= f.label :dock_id %>
-    <%= f.number_field :dock_id %>
+    <%= f.collection_select :dock_id,Dock.all,:id,:dock_number %>
   </div>
 
   <div class="field">
     <%= f.label :dockworker_id %>
-    <%= f.number_field :dockworker_id %>
+    <%= f.collection_select :dockworker_id,DockWorker.all,:id,:first_last %>
   </div>
 
   <div class="actions">

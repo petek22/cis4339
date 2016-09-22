@@ -1,5 +1,5 @@
 class Appointment < ApplicationRecord
-  belongs_to :dock
-  belongs_to :dock_worker
+  has_one :dock
+  has_many :dock_workers
 
 end

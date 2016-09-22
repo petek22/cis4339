@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dock_number: 1
+  available: MyString
+
+two:
+  dock_number: 1
+  available: MyString
